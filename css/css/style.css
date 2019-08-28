@@ -1,0 +1,13 @@
+body{
+  background-color:rgba(24, 22, 22, 0.603);
+}.normal{
+  width:500px;
+  background-color:#f4f4f4;
+  padding:50px;
+  
+  border-radius:20px;
+  box-shadow:2px 4px 4px 3px rgb(104, 114, 197) ;
+}
+.new-table{
+  margin-top: 20px;
+}
